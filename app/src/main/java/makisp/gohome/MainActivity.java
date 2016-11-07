@@ -5,7 +5,6 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     public static DbCredentials db;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
