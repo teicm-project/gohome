@@ -20,5 +20,12 @@ public class MainActivity extends AppCompatActivity {
 
 
         Log.d("log","Sting");
+        Log.d("log","Sting");
+        Log.d("log","Sting");
+
+
+
+        Log.d("log","Sting");
+
     }
 }
